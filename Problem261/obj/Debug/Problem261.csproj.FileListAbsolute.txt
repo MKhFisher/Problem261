@@ -1,0 +1,6 @@
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem261\Problem261\bin\Debug\Problem261.exe.config
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem261\Problem261\bin\Debug\Problem261.exe
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem261\Problem261\bin\Debug\Problem261.pdb
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem261\Problem261\obj\Debug\Problem261.csprojResolveAssemblyReference.cache
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem261\Problem261\obj\Debug\Problem261.exe
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem261\Problem261\obj\Debug\Problem261.pdb
